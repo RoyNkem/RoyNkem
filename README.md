@@ -68,9 +68,12 @@
 <a href="https://medium.com" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium/> </a>
 <a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-e435aa?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL/> </a>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynkem&show_icons=true&locale=en&layout=compact" alt="roynkem" /></p>
 
 <a><h2>Stats</h2></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynkem&layout=compact)](https://github.com/roynkem/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roynkem&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
