@@ -69,7 +69,6 @@
 <a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-e435aa?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL/> </a>
 
 <a><h2>Stats</h2></a>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roynkem&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
   
