@@ -33,16 +33,16 @@
 ### Connect with me  :coffee:
 <p align="center">
 <a href="https://twitter.com/theroyaiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roy aiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roy-aiyetin-97867718a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17664098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
 <a href="https://medium.com/@nkemaiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nkemaiyetin" height="30" width="40" /></a>
-<a href="https://discord.gg/#1581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1581" height="30" width="40" /></a>
+<a href="https://discord.gg/princenkem#1581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="princenkem#1581" height="30" width="40" /></a>
 </p>
 
 
-<h3 align="left">My Tech Stack 🧰<br></h3>
+<h3 align="left">My Tech Stack ⚡<br></h3>
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif#gh-light-mode-only" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center"> 
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.shields.io/badge/Xcode-1882e8?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift"/> </a> 
@@ -70,9 +70,9 @@
 
 
 <a><h2>Stats</h2></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynkem&layout=compact)](https://github.com/roynkem/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roynkem&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynkem&layout=compact)](https://github.com/roynkem/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
