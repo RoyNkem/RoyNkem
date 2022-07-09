@@ -40,7 +40,7 @@
 </p>
 
 
-<h3 align="left">Tech Stack 🧰<br></h3>
+<h3 align="left">My Tech Stack 🧰<br></h3>
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="center"> 
