@@ -51,19 +51,21 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-4887ba?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://cocoapods.org" target="_blank"> <img src="https://img.shields.io/badge/cocoapods-fa2b01?style=for-the-badge&logo=cocoapods&logoColor=white" alt="cocoapods"/> </a>
-<a href="https://flutter.dev/brand" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0b6db0?style=for-the-badge&logo=Flutter&logoColor=darkgreen" alt="Flutter/> </a>
+<a href="https://flutter.dev/brand" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0b6db0?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter/> </a>
 <a href="https://stackoverflow.com" target="_blank"> <img src="https://img.shields.io/badge/stackoverflow-f58023?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/> </a>
 <a href="https://github.com/ReactiveX/RxSwift" target="_blank"> <img src="https://img.shields.io/badge/RxSwift-ff4db3?style=for-the-badge&logo=RxSwift&logoColor=white" alt="RxSwift"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-fecc2f?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-fecc2f?style=for-the-badge&logo=firebase&logoColor=orange" alt="firebase"/> </a> 
 <a href="https://www.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google-4286f5?style=for-the-badge&logo=Google&logoColor=white" alt="Google"/> </a> 
 <a href="https://www.canva.com/features/free-icons/" target="_blank"> <img src="https://img.shields.io/badge/Canva-5d4de3?&style=for-the-badge&logo=Canva&logoColor=white " alt="Canva"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=white " alt="figma"/> </a>  
-<a href="https://www.udemy.com" target="_blank"> <img src="https://img.shields.io/badge/Udemy-be32f5?style=for-the-badge&logo=Udemy&logoColor=white " alt="Udemy"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=blue " alt="figma"/> </a>  
+<a href="https://www.udemy.com" target="_blank"> <img src="https://img.shields.io/badge/Udemy-be32f5?style=for-the-badge&logo=Udemy&logoColor=black " alt="Udemy"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/Matlab-469b9a?style=for-the-badge&logo=mathwork&logoColor=white " alt="Matlab"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-971201?style=for-the-badge&logo=Ruby&logoColor=white" alt="Realm"/> </a>
 <a href="https://realm.io/" target="_blank"> <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Ruby"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-ee5c25?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> </a>
-<a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-e435aa?style=for-the-badge&logo=GraphQL&logoColor=darkgreen" alt="GraphQL/> </a>
+<a href="https://www.coursera.org/" target="_blank"> <img src="https://img.shields.io/badge/Coursera-0055d2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera/> </a>
+<a href="https://medium.com" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium/> </a>
+<a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-e435aa?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL/> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynkem&show_icons=true&locale=en&layout=compact" alt="roynkem" /></p>
