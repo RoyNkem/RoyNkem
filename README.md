@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [file:///Users/royaiyetin/Downloads/DOCS/Roy%20Aiyetin%20Professional%20Resume.pdf](https://drive.google.com/file/d/1EcejAi9efQ5rCgIRF5s6NaTQUFzwIy9E/view?usp=sharing)
 
-- ⚡ Fun fact **I love dogs**
+- ⚡ Fun fact **I love dogs** :dog:
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
@@ -39,11 +39,40 @@
 <a href="https://discord.gg/princenkem#1581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="princenkem#1581" height="30" width="40" /></a>
 </p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <a><h2>Stats ⚡</h2></a>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynkem&layout=compact)](https://github.com/roynkem/github-readme-stats)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roynkem&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roynkem&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
+
+ ## Github Trophies :fries:
+> #### Expand to see my Github Trophies :star:
+<details>
+  <summary> 
+    Github Trophies
+  </summary>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=roynkem&theme=algolia&column=4">
+  </p>
+</details>
+
+## Wakatime Stats
+> #### Expand to see details of my daily coding activities from my Code Editor
+<details>
+  <summary> 
+    WakaTime Dashboard
+  </summary>
+  <p>
+ <img src="https://wakatime.com/share/@133cbe90-5831-490c-946f-7546fb4bc40e/961a754e-a533-4a5a-a670-9eff39577a5c.svg" height="400" width="600">
+  </p>
+</details>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <h3 align="left">My Tech Stack ⚡<br></h3>
 <p align='center'>
@@ -72,7 +101,6 @@
 <a href="https://www.coursera.org/" target="_blank"> <img src="https://img.shields.io/badge/Coursera-0055d2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera/> </a>
 <a href="https://medium.com" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium/> </a>
 <a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-e435aa?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL/> </a>
-
 
 
 <!--START_SECTION:waka-->
