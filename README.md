@@ -62,7 +62,7 @@
 </details>
 
 ## Wakatime Stats
-> #### Expand to see details of my daily coding activities from my Code Editor
+> #### Expand to see details of my daily coding activities from my Code Editor :bar_chart:
 <details>
   <summary> 
     WakaTime Dashboard
