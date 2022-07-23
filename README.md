@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Mobile Development Jobs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RoyNkem](https://github.com/RoyNkem)
+- 👨‍💻 All of my projects are available [here](https://github.com/RoyNkem?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@nkemaiyetin](https://medium.com/@nkemaiyetin)
+- 💬 Ask me about **Swift, UIKit and SwiftUI**
 
-- 💬 Ask me about **Swift, UIKit**
+- 📝 I regularly write articles and publish them [here](https://medium.com/@nkemaiyetin)
 
 - 📫 How to reach me **aiyetinroy@gmail.com**
 
-- 📄 Know about my experiences [file:///Users/royaiyetin/Downloads/DOCS/Roy%20Aiyetin%20Professional%20Resume.pdf](https://drive.google.com/file/d/1EcejAi9efQ5rCgIRF5s6NaTQUFzwIy9E/view?usp=sharing)
+- 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1EcejAi9efQ5rCgIRF5s6NaTQUFzwIy9E/view?usp=sharing)
 
 - ⚡ Fun fact **I love dogs** :dog:
 
@@ -30,9 +30,10 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-- Check my Recent post on `Medium`
+### Check my Recent post on `Medium`
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0" alt="Recent Article 0"> 
+
 ### Connect with me  :coffee:
 <p align="center">
 <a href="https://twitter.com/theroyaiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
