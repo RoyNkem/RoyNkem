@@ -30,6 +30,9 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
+- Check my Recent post on `Medium`
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0" alt="Recent Article 0"> 
 ### Connect with me  :coffee:
 <p align="center">
 <a href="https://twitter.com/theroyaiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
