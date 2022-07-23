@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/theroyaiyetin" target="blank"><img src="https://img.shields.io/twitter/follow/theroyaiyetin?logo=twitter&style=for-the-badge" alt="theroyaiyetin" /></a> </p>
 
-- 🔭 I’m currently working on **UpTide**, an e-learning app.
+- 🔭 I’m currently working on an e-learning app `UpTide` using **SwiftUI** .
 
-- 🌱 I’m currently learning **SwiftUI, Combine, GraphQL, Machine Learning, Realm, Flutter and other iOS Development Frameworks**
+- 🌱 I’m also learning **Combine, GraphQL, Core ML (Machine Learning), ARKit, Realm, Flutter and several other iOS Development Frameworks**
 
 - 👯 I’m looking to collaborate on **iOS Projects**
 
