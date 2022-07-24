@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/theroyaiyetin" target="blank"><img src="https://img.shields.io/twitter/follow/theroyaiyetin?logo=twitter&style=for-the-badge" alt="theroyaiyetin" /></a> </p>
 
+### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
+
 - 🔭 I’m currently working on an e-learning app `UpTide` using **SwiftUI** .
 
 - 🌱 I’m also learning **Combine, GraphQL, Core ML (Machine Learning), ARKit, Realm, Flutter and several other iOS Development Frameworks**
