@@ -11,11 +11,9 @@
 
 - 🔭 I’m currently working on an e-learning app `UpTide` using **SwiftUI** .
 
-- 🌱 I’m also learning **Combine, GraphQL, Core ML (Machine Learning), ARKit, Realm, Flutter and several other iOS Development Frameworks**
+- 🌱 I’m also learning **Combine, GraphQL, Core ML (Machine Learning), ARKit and Realm**
 
 - 👯 I’m looking to collaborate on **iOS Projects**
-
-- 🤝 I’m looking for help with **Mobile Development Jobs**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/RoyNkem?tab=repositories)
 
