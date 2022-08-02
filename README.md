@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roy</h1>
-<h3 align="center">A Mechanical Engineer turn passionate iOS developer</h3>
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Roy+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
+  </a></h2></a>
+  
+<h3 align="center">A Mechanical Engineer turn passionate iOS developer :heart:</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
