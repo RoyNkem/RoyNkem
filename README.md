@@ -9,7 +9,7 @@
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
-- 🔭 I’m currently working on an e-learning app `UpTide` using **SwiftUI** .
+- 🔭 I’m currently working on a cryptocurrency tracking app `Braze` using **SwiftUI, Combine and Core data** .
 
 - 🌱 I’m also learning **Combine, GraphQL, Core ML (Machine Learning), ARKit and Realm**
 
