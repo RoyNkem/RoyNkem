@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a cryptocurrency tracking app `Braze` using **SwiftUI, Combine and Core data** .
 
-- 🌱 I’m also learning **Combine, GraphQL, Core ML (Machine Learning), ARKit and Realm**
+- 🌱 I’m also learning **GraphQL, Core ML (Machine Learning), ARKit and Realm**
 
 - 👯 I’m looking to collaborate on **iOS Projects**
 
@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
 
-- 📝 I regularly write articles and publish them [here](https://medium.com/@nkemaiyetin)
+- 📝 I not-so regularly write articles and publish them [here](https://medium.com/@nkemaiyetin)
 
-- 📫 How to reach me **aiyetinroy@gmail.com**
+- 📫 Reach me via **aiyetinroy@gmail.com**
 
 - 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/17A898Xg93Sc7dee86DzdE4cRDhlCDLWK/view?usp=sharing)
 
