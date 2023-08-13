@@ -9,7 +9,7 @@
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
-- 🔭 I’m currently working on a study app `Rank`, after finishing my last project; a cryptocurrency tracking app `Braze` using **SwiftUI, Combine and Core data**. See here [Braze App](https://github.com/RoyNkem/Braze)
+- 🔭 I’m currently working on a study app `Rank`, after finishing my last project; a cryptocurrency tracking app `Braze` using **SwiftUI, Combine and Core data**. See here [Braze App](https://github.com/RoyNkem/Braze_2.0)
 
 - 🌱 I’m also learning **GraphQL, Core ML (Machine Learning), ARKit and Realm**
 
