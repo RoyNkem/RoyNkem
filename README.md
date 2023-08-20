@@ -23,7 +23,7 @@
 
 - 📫 Reach me via **aiyetinroy@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/17A898Xg93Sc7dee86DzdE4cRDhlCDLWK/view?usp=sharing)
+- 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1GCm8RP66x7es7vsq7mqUqj9wvI29wtYB/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love dogs** :dog:
 
