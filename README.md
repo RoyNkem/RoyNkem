@@ -9,17 +9,13 @@
 
 - 🔭 I’m currently working on a ticketing and event app `KLIQQ`, after finishing my last project; a cryptocurrency tracking app `Braze` using **SwiftUI, Combine and Core data**. See here [Braze App](https://github.com/RoyNkem/Braze_2.0)
 
-- 🌱 I’m also learning **GraphQL, Core ML (Machine Learning), ARKit and Realm**
-
-- 👯 I’m looking to collaborate on **iOS Projects**
+- 🌱 I’m also learning **SwiftData, Core ML (Machine Learning), ARKit and 2D Games**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/RoyNkem?tab=repositories)
 
-- 💬 Ask me about **Swift, UIKit and SwiftUI**
+- 💬 Check my [wiki](https://drive.google.com/file/d/14Zl4QNRUP1VLWDp8SA2cNiWIbsIJB6Fv/view?usp=sharing)
 
 - 📝 I not-so regularly write articles and publish them [here](https://medium.com/@nkemaiyetin)
-
-- 📫 Reach me via **aiyetinroy@gmail.com**
 
 - 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1MDZvF6eA-xv0nI5fquRIvXmERhkt4FIk/view?usp=share_link)
 
@@ -32,7 +28,7 @@
 
 ### Check my Recent post on `Medium`
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nkemaiyetin/1" alt="Recent Article 0"> 
 
 ### Connect with me  :coffee:
 <p align="center">
