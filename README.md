@@ -43,8 +43,6 @@
 
 <a><h2>Stats ⚡</h2></a>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynkem&layout=compact)](https://github.com/roynkem/github-readme-stats)
-
- [![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=roynkem&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/roynkem/github-readme-stats)
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roynkem&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
   
