@@ -68,7 +68,7 @@
     WakaTime Dashboard
   </summary>
   <p>
- <img src="https://wakatime.com/share/@133cbe90-5831-490c-946f-7546fb4bc40e/961a754e-a533-4a5a-a670-9eff39577a5c.svg" height="400" width="600">
+ <img src="https://wakatime.com/share/@133cbe90-5831-490c-946f-7546fb4bc40e/a102c5ec-52dd-4278-ba28-cb49d6308b5d.svg" height="400" width="600">
   </p>
 </details>
 
