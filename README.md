@@ -55,7 +55,7 @@
     Github Trophies
   </summary>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=roynkem&theme=algolia&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=roynkem&theme=algolia&column=3">
   </p>
 </details>
 
