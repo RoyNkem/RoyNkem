@@ -79,17 +79,21 @@
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.shields.io/badge/Xcode-1882e8?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift"/> </a> 
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.shields.io/badge/SwiftUI-006cbc?style=for-the-badge&logo=Swift&logoColor=white" alt="SwiftUI"/> </a> 
-<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+<a href="https://developer.apple.com/objective-c/" target="_blank"> <img src="https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=Objective-C&logoColor=white" alt="Objective-C"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a> 
+<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-4887ba?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
 <a href="https://cocoapods.org" target="_blank"> <img src="https://img.shields.io/badge/cocoapods-fa2b01?style=for-the-badge&logo=cocoapods&logoColor=white" alt="cocoapods"/> </a>
 <a href="https://flutter.dev/brand" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0b6db0?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter/> </a>
 <a href="https://stackoverflow.com" target="_blank"> <img src="https://img.shields.io/badge/stackoverflow-f58023?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="Visual Studio Code"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=React&logoColor=white" alt="React Native"/> </a>
 <a href="https://github.com/ReactiveX/RxSwift" target="_blank"> <img src="https://img.shields.io/badge/RxSwift-ff4db3?style=for-the-badge&logo=RxSwift&logoColor=white" alt="RxSwift"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-fecc2f?style=for-the-badge&logo=firebase&logoColor=orange" alt="firebase"/> </a> 
 <a href="https://www.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google-4286f5?style=for-the-badge&logo=Google&logoColor=white" alt="Google"/> </a> 
 <a href="https://www.canva.com/features/free-icons/" target="_blank"> <img src="https://img.shields.io/badge/Canva-5d4de3?&style=for-the-badge&logo=Canva&logoColor=white " alt="Canva"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=blue " alt="figma"/> </a>  
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=blue " alt="figma"/> </a> 
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=Android-Studio&logoColor=white" alt="Android Studio"/> </a>
 <a href="https://www.udemy.com" target="_blank"> <img src="https://img.shields.io/badge/Udemy-be32f5?style=for-the-badge&logo=Udemy&logoColor=black " alt="Udemy"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/Matlab-469b9a?style=for-the-badge&logo=mathwork&logoColor=white " alt="Matlab"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
