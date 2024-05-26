@@ -3,8 +3,6 @@
   
 <h3 align="center">A Mechanical Engineer turn passionate iOS developer :heart:</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
 - 🔭 I’m currently working on a ticketing and event app `KLIQQ`, after finishing my last project; a cryptocurrency tracking app `Braze` using **SwiftUI, Combine and Core data**. See here [Braze App](https://github.com/RoyNkem/Braze_2.0)
@@ -14,8 +12,6 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/RoyNkem?tab=repositories)
 
 - 💬 Check my [wiki](https://drive.google.com/file/d/14Zl4QNRUP1VLWDp8SA2cNiWIbsIJB6Fv/view?usp=sharing)
-
-- 📝 I not-so regularly write articles and publish them [here](https://medium.com/@nkemaiyetin)
 
 - 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1MDZvF6eA-xv0nI5fquRIvXmERhkt4FIk/view?usp=share_link)
 
