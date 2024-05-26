@@ -44,17 +44,6 @@
   
   <p align="right">(<a href="#top">back to top</a>)</p>
 
- ## Github Trophies :fries:
-> #### Expand to see my Github Trophies :star:
-<details>
-  <summary> 
-    Github Trophies
-  </summary>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=roynkem&theme=algolia&column=3">
-  </p>
-</details>
-
 ## Wakatime Stats
 > #### Expand to see details of my daily coding activities from my Code Editor :bar_chart:
 <details>
