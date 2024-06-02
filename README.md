@@ -10,9 +10,6 @@
 
 ### Connect with me  :coffee:
 <p align="left">
-<a href="https://twitter.com/theroyaiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/roy-aiyetin-97867718a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17664098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
 <a href="https://medium.com/@nkemaiyetin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nkemaiyetin" height="30" width="40" /></a>
-<a href="https://discord.gg/princenkem#1581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="princenkem#1581" height="30" width="40" /></a>
 </p>
