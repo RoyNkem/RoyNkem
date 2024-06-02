@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Roy+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Roy+🤝.;I'm+an+iOS+Engineer+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
   
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
