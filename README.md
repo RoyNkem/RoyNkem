@@ -4,7 +4,7 @@
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
 <div align="left"> 
-<i>Random dev jokes for you my friend!</i></br></br>
+<i>Random dev jokes for you my friend! ❤️ - Refresh page for now joke(s)</i></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
